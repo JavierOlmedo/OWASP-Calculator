@@ -1,0 +1,6 @@
+select { width: 100%; }
+.bCritical { color: #FFFFFF; background-color: #FF66FF; font-weight: bold;}
+.bHigh { color: #FFFFFF; background-color: #FF0000; font-weight: bold;}
+.bMedium { color: #000000; background-color: #FFA900; font-weight: bold;}
+.bLow { color: #000000; background-color: #FFFF00; font-weight: bold;}
+.bNote { color: #000000; background-color: #90EE90; font-weight: bold;}
